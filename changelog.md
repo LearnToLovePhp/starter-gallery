@@ -1,33 +1,21 @@
 #Change Log
 
-Team membership:  AB (Captain) & CD (Mate)  
-Team conventions: Allman notation, markdown for changelog  
-Changelog format: [Markdown](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet) 
+Team membership:  Juliana French & Delan Elliot
 
-## *Version x.x*
 
-Release Date: Jul 26, 2027
+## *Version 0.1*
 
-## New Components
+Release Date: Jan 25, 2018
 
--   controllers
+## Added
 
-    -   serbian (AB)
+-   CodeIgniter
+    -   Converted static html to basic views
+    -   Updated links to views
+
     
-## Updated Components
 
--   controllers
 
-    -   german (CD)
-    -   hindi (CD)
 
--   models
-
-    -   italian (AB)
-
--   views
-
-    -   slovenian (AB)
-    -   swedish
 
 
