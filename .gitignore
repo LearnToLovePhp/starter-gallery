@@ -8,3 +8,4 @@
 /nbproject/
 *.iml
 /.idea
+config/database.php

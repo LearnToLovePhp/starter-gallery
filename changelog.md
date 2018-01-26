@@ -2,6 +2,33 @@
 
 Team membership:  Juliana French & Delan Elliot
 
+
+## *Version 0.3*
+
+Release Date: Jan 25, 2018
+ 
+## Updated
+-   Models
+    -   Welcome
+        - Added dynamic loading of 3 newest images
+    -   Gallery
+        -   Modified gallery to use new image/cell models
+-   SQL database
+    - Added database
+    -   Added image info to database
+    -   Added database library to autoload
+    -   ignore config file
+-   Views
+    - Gallery
+        -   Modified to use image model 
+    - Welcome
+        - modified to use image model
+## Added
+-   Models
+    -   Images
+    -   _cell
+       
+
 ## *Version 0.2*
 
 Release Date: Jan 25, 2018
